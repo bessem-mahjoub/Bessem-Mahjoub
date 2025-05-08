@@ -78,6 +78,5 @@ Un projet DevOps complet autour d’une application **Java de type e-commerce (S
 ## 📫 Contact
 
 📧 bassem.mahjoub13@gmail.com  
-📞 07 45 39 50 17  
 🌍 [LinkedIn](https://www.linkedin.com/in/bessem-mahjoub)  
-📍 Enghien-Les-Bains, France  
+📍 Paris, France  
